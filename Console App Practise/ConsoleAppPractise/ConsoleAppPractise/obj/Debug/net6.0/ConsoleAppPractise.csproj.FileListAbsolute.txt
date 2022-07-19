@@ -1,0 +1,5 @@
+C:\Users\marda\Desktop\c#\Console App Practise\Console App Practise\ConsoleAppPractise\ConsoleAppPractise\obj\Debug\net6.0\ConsoleAppPractise.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\c#\Console App Practise\Console App Practise\ConsoleAppPractise\ConsoleAppPractise\obj\Debug\net6.0\ConsoleAppPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\c#\Console App Practise\Console App Practise\ConsoleAppPractise\ConsoleAppPractise\obj\Debug\net6.0\ConsoleAppPractise.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\c#\Console App Practise\Console App Practise\ConsoleAppPractise\ConsoleAppPractise\obj\Debug\net6.0\ConsoleAppPractise.AssemblyInfo.cs
+C:\Users\marda\Desktop\c#\Console App Practise\Console App Practise\ConsoleAppPractise\ConsoleAppPractise\obj\Debug\net6.0\ConsoleAppPractise.csproj.CoreCompileInputs.cache
