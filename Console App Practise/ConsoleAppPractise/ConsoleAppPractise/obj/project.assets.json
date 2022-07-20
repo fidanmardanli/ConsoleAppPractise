@@ -63,19 +63,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\marda\\.nuget\\packages\\": {}
+    "C:\\Users\\fidannm\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marda\\Desktop\\c#\\Console App Practise\\Console App Practise\\ConsoleAppPractise\\ConsoleAppPractise\\ConsoleAppPractise.csproj",
+      "projectUniqueName": "C:\\Users\\fidannm\\Desktop\\ConsoleAppPractise\\Console App Practise\\ConsoleAppPractise\\ConsoleAppPractise\\ConsoleAppPractise.csproj",
       "projectName": "ConsoleAppPractise",
-      "projectPath": "C:\\Users\\marda\\Desktop\\c#\\Console App Practise\\Console App Practise\\ConsoleAppPractise\\ConsoleAppPractise\\ConsoleAppPractise.csproj",
-      "packagesPath": "C:\\Users\\marda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marda\\Desktop\\c#\\Console App Practise\\Console App Practise\\ConsoleAppPractise\\ConsoleAppPractise\\obj\\",
+      "projectPath": "C:\\Users\\fidannm\\Desktop\\ConsoleAppPractise\\Console App Practise\\ConsoleAppPractise\\ConsoleAppPractise\\ConsoleAppPractise.csproj",
+      "packagesPath": "C:\\Users\\fidannm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fidannm\\Desktop\\ConsoleAppPractise\\Console App Practise\\ConsoleAppPractise\\ConsoleAppPractise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fidannm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -89,8 +89,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\marda\\Desktop\\c#\\Console App Practise\\Console App Practise\\ConsoleAppPractise\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\marda\\Desktop\\c#\\Console App Practise\\Console App Practise\\ConsoleAppPractise\\Service\\Service.csproj"
+            "C:\\Users\\fidannm\\Desktop\\ConsoleAppPractise\\Console App Practise\\ConsoleAppPractise\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\fidannm\\Desktop\\ConsoleAppPractise\\Console App Practise\\ConsoleAppPractise\\Service\\Service.csproj"
             }
           }
         }
@@ -114,12 +114,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
